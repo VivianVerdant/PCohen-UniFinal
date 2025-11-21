@@ -297,8 +297,10 @@ span.title-bar-title {
 
 
 li.top-bar-main-link a {
-    color: white !important;
+    color: black !important;
 }
+/*-- fix this later; it was white^ --*/
+
 
 ul.top-bar-links li.top-bar-main-link a.main-link {
     text-align: center;
@@ -391,7 +393,7 @@ Social Footer
   .social-footer-icons li {
     padding-left: 15px;
   }
-  
+
   .social-footer .social-footer-icons i.fa {
     height: 40px;
     width: 40px;
